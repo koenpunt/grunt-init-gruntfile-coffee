@@ -1,8 +1,10 @@
 # grunt-init-gruntfile-coffee
 
-> Create a basic Gruntfile.coffee with [grunt-init][].
+> Create a basic Gruntfile.coffee with [grunt-init][].  
+> This is a coffeescript fork of [grunt-init-gruntfile][].
 
 [grunt-init]: http://gruntjs.com/project-scaffolding
+[grunt-init-gruntfile]: https://github.com/gruntjs/grunt-init-gruntfile
 
 ## Installation
 If you haven't already done so, install [grunt-init][].
