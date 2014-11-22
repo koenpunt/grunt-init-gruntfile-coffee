@@ -67,7 +67,7 @@ module.exports = (grunt) ->
 
   # These plugins provide necessary tasks.{% if (min_concat) { %}
   grunt.loadNpmTasks 'grunt-contrib-concat'
-  grunt.loadNpmTasks 'grunt-contrib-uglify');{% } %}
+  grunt.loadNpmTasks 'grunt-contrib-uglify'{% } %}
   grunt.loadNpmTasks 'grunt-contrib-nodeunit'
   grunt.loadNpmTasks 'grunt-contrib-jshint'
   grunt.loadNpmTasks 'grunt-contrib-watch'
